@@ -14,6 +14,9 @@ After a trip through the Milky Way, your crew is ready to return to Earth. Howev
 - [x] game keeps score
 
 ### Download this App
+<a href="https://play.google.com/store/apps/details?id=daveboling.gravity.flip"><img src="docs/icons/google-play-logo.png" align="left" height="175px" width="500px" ></a>
+
+
 [<img src="docs/icons/itunes-app-store-logo.png">](https://itunes.apple.com/TR/app/id932888940)
 [<img src="docs/icons/google-play-logo.png">](https://play.google.com/store/apps/details?id=daveboling.gravity.flip)
 ### Contributors

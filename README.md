@@ -3,11 +3,8 @@
 ### Screenshots
 ![Image1](https://raw.githubusercontent.com/zoeames/falldown/master/docs/screenshots/gravityflip.png)
 
-
-
 ### Description
 After a trip through the Milky Way, your crew is ready to return to Earth. However, a terrible storm of asteroids and debris block your path. During your trip, you notice that the inertia and gravitational pull are constantly reversing. Navigate your way through this anomaly so that you can tell Earth of your findings!
-
 
 ### Features
 - [x] cool sound effects
@@ -16,6 +13,9 @@ After a trip through the Milky Way, your crew is ready to return to Earth. Howev
 - [x] gravity flips every 30 seconds
 - [x] game keeps score
 
+### Download this App
+[itunes](https://itunes.apple.com/TR/app/id932888940)
+[Google Play](https://play.google.com/store/apps/details?id=daveboling.gravity.flip)
 ### Contributors
 - [Zoe Ames](https://github.com/zoeames)
 - [Dave Boling](https://github.com/kadowki)
